@@ -1,0 +1,136 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.card{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 20px;
+    text-decoration: underline;
+}
+
+.blue{
+    background-color: rgb(85, 10, 225);
+    color: white;
+    padding: 5px;
+    display: flex;
+    flex-direction:column;
+    justify-content: none;
+    align-items: center;
+    box-shadow: 0 0 1px 2px lightcyan;
+    margin-right: 10px;
+    width: 300px;
+    height: 450px;
+    
+}
+.bluehead{
+    display: flex;
+    justify-content: center;
+    padding:3px;
+    padding-top: 40px;
+    flex-wrap: wrap;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.bluepara{
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    margin-left: 30px;
+    margin-right: 40px;
+}
+
+.orange{
+    background-color: orange;
+    color: white;
+    padding: 5px;
+    display: flex;
+    flex-direction:column;
+    justify-content: none;
+    align-items: center;
+    box-shadow: 0 0 1px 2px lightcyan;
+    margin-right: 10px;
+    margin-top: 5%;
+    width: 300px;
+    height: 450px;
+    
+}
+
+.orangehead{
+    display: flex;
+    justify-content: center;
+    padding:3px;
+    padding-top: 40px;
+    flex-wrap: wrap;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-right: 40px;
+
+}
+
+.orangepara{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-right: 40px;
+}
+
+.red{
+    background-color: brown;
+    color: white;
+    padding: 5px;
+    display: flex;
+    flex-direction:column;
+    justify-content: none;
+    align-items: center;
+    box-shadow: 0 0 1px 2px lightcyan;
+    margin-right: 10px;
+    margin-top: 10%;
+    width: 300px;
+    height: 500px;
+    
+}
+
+.redhead{
+    display: flex;
+    justify-content:center;
+    text-align: justify;
+    padding:0;
+    padding-top: 40px;
+    flex-wrap: wrap;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+.redpara{
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-right: 40px;
+}
+
+img{
+    width: 250px;
+    margin-top: 10%;
+    padding-top: 20px;
+}
+
+.orangepic{
+    padding-bottom: 15px;
+}
+
+.redpic{
+    width: 250px;
+}

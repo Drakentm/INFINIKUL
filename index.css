@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    
+   
+    width: fit-content;
+    font-size: 20px;
+    
+    position: absolute;
+    left: 65px;
+    top: 25px;
+
+}
+
+button:hover {
+    background-color: azure;
+
+}
+
+
+li {
+    display: inline-block;
+    padding: 0px 40px;
+    text-align: center;
+}
+
+
+.dropdown {
+    display: inline-block;
+    position: absolute;
+    left: 230px;
+    top: 29px;
+    font-size: large;
+    cursor: pointer;
+   
+  }
+
+  .dropdown-options {
+    display: none;
+    position: absolute;
+    overflow: auto;
+  }
+  
+  .dropdown:hover .dropdown-options {
+    display: block;
+  }
+.drop2{
+    display: inline-block;
+    position: absolute;
+    left: 460px;
+    top: 29px;
+    font-size: large;
+    cursor: pointer;
+}
+.drop2opt{
+    display: none;
+    position: absolute;
+    overflow: auto;
+}
+
+.drop2:hover .drop2opt {
+    display: block;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.skills{
+    left: 140px;
+    top: 270px;
+    position: absolute;
+    
+    font-size: xx-large;
+    width: 500px;
+    color: blue;
+}
+.skillbot{
+    left: 140px;
+    top: 410px;
+    position: absolute;
+    
+    font-size:large;
+    width: 280px;
+    color: grey;
+    opacity: 70%;
+}
+
+.butt{
+    left: 145px;
+    top: 520px;
+    position: absolute;
+    padding: 10px 12px;
+    text-align: center;
+    text-decoration: none;
+   
+    border: none;
+    color: wheat;
+  
+    background-color: blue;
+    margin: 2px 1px;
+
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+
+.butt:hover{
+    background-color: blueviolet;
+}
+
+img {
+    border-radius: 8px;
+    left: 760px;
+    top: 250px;
+    position: absolute;
+    width: auto;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
